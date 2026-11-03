@@ -1,22 +1,22 @@
 {
     "app":  "A股作战台",
-    "version":  "1.3.0",
+    "version":  "1.4.0",
     "minVersion":  "1.0.0",
-    "publishedAt":  "2026-11-03T19:23:37+08:00",
+    "publishedAt":  "2026-11-03T19:57:42+08:00",
     "mandatory":  false,
-    "notes":  "v1.3.0：GitHub Pages 更新源 + jsDelivr/GitHub API 自动兜底；更新界面显示来源；修复更新后自动重启问题。",
+    "notes":  "v1.4.0：新增 AI 实时计算按钮（随时让 AI 结合行情/新闻/计划/持仓算一次）；新闻随时一键拉取，并在交易时段每 30 分钟自动增量刷新；新增我的持仓与实时收益计算（买入时间/价格/手数股数、浮动/当日盈亏）。",
     "installer":  {
-                      "url":  "https://w1sdoM777.github.io/a-stock-desk/assets/AStockDesk-Setup-v1.3.0.exe",
-                      "size":  23531952,
-                      "sha256":  "CDB30AC2B2E2E3E949BB0B76D323837F7A53D04B18A7455E3F23C7F3F6128B3C",
+                      "url":  "https://w1sdoM777.github.io/a-stock-desk/assets/AStockDesk-Setup-v1.4.0.exe",
+                      "size":  23560825,
+                      "sha256":  "0021781AD0EABA7A4C1B040E3CB5624342176642D38C11799A9CA1C25EADC8F0",
                       "fallbackUrls":  [
-                                           "https://cdn.jsdelivr.net/gh/w1sdoM777/a-stock-desk@main/docs/assets/AStockDesk-Setup-v1.3.0.exe",
-                                           "https://raw.githubusercontent.com/w1sdoM777/a-stock-desk/main/docs/assets/AStockDesk-Setup-v1.3.0.exe"
+                                           "https://cdn.jsdelivr.net/gh/w1sdoM777/a-stock-desk@main/docs/assets/AStockDesk-Setup-v1.4.0.exe",
+                                           "https://raw.githubusercontent.com/w1sdoM777/a-stock-desk/main/docs/assets/AStockDesk-Setup-v1.4.0.exe"
                                        ]
                   },
     "github":  {
                    "repo":  "w1sdoM777/a-stock-desk",
                    "ref":  "main",
-                   "path":  "docs/assets/AStockDesk-Setup-v1.3.0.exe"
+                   "path":  "docs/assets/AStockDesk-Setup-v1.4.0.exe"
                }
 }
