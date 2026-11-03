@@ -1,22 +1,22 @@
 {
     "app":  "A股作战台",
-    "version":  "1.7.0",
+    "version":  "1.8.0",
     "minVersion":  "1.0.0",
-    "publishedAt":  "2026-11-04T03:22:57+08:00",
+    "publishedAt":  "2026-11-04T03:46:44+08:00",
     "mandatory":  false,
-    "notes":  "v1.7.0：个股详情日K线支持自由缩放（滚轮/拖动/双击/触屏捏合/20-60-120-250日按钮）；持仓个股新增目标卖点区间（技术参考 + AI 分析给出的 AI 卖点/触发条件/持仓建议）。",
+    "notes":  "v1.8.0：持仓股打开详情自动后台 AI 分析（无持仓仍需手动点）；持仓卖点提醒——现价进入/超过 AI 或技术卖点区间时，主看板顶部提醒、持仓行与详情高亮。",
     "installer":  {
-                      "url":  "https://w1sdoM777.github.io/a-stock-desk/assets/AStockDesk-Setup-v1.7.0.exe",
-                      "size":  23854840,
-                      "sha256":  "E2E00CCBF0F485F26BD52295B1E537DA2A94EBB62F91138861DF7EF6829FD006",
+                      "url":  "https://w1sdoM777.github.io/a-stock-desk/assets/AStockDesk-Setup-v1.8.0.exe",
+                      "size":  23858473,
+                      "sha256":  "FB46226A0B0EE6A3C322C296FEB069AB0116965B18C38F4AFC196888D720B534",
                       "fallbackUrls":  [
-                                           "https://cdn.jsdelivr.net/gh/w1sdoM777/a-stock-desk@main/docs/assets/AStockDesk-Setup-v1.7.0.exe",
-                                           "https://raw.githubusercontent.com/w1sdoM777/a-stock-desk/main/docs/assets/AStockDesk-Setup-v1.7.0.exe"
+                                           "https://cdn.jsdelivr.net/gh/w1sdoM777/a-stock-desk@main/docs/assets/AStockDesk-Setup-v1.8.0.exe",
+                                           "https://raw.githubusercontent.com/w1sdoM777/a-stock-desk/main/docs/assets/AStockDesk-Setup-v1.8.0.exe"
                                        ]
                   },
     "github":  {
                    "repo":  "w1sdoM777/a-stock-desk",
                    "ref":  "main",
-                   "path":  "docs/assets/AStockDesk-Setup-v1.7.0.exe"
+                   "path":  "docs/assets/AStockDesk-Setup-v1.8.0.exe"
                }
 }
