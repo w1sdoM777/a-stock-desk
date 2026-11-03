@@ -1,22 +1,22 @@
 {
     "app":  "A股作战台",
-    "version":  "1.4.0",
+    "version":  "1.5.0",
     "minVersion":  "1.0.0",
-    "publishedAt":  "2026-11-03T19:57:42+08:00",
+    "publishedAt":  "2026-11-03T20:22:14+08:00",
     "mandatory":  false,
-    "notes":  "v1.4.0：新增 AI 实时计算按钮（随时让 AI 结合行情/新闻/计划/持仓算一次）；新闻随时一键拉取，并在交易时段每 30 分钟自动增量刷新；新增我的持仓与实时收益计算（买入时间/价格/手数股数、浮动/当日盈亏）。",
+    "notes":  "v1.5.0：品牌更名为「A股AI量化投资建议」；界面、安装包、快捷方式、卸载列表全部使用新名称；继续支持 AI 实时计算、新闻每 30 分钟刷新、我的持仓与实时收益；内部目录/任务名保持不变以兼容自动更新。",
     "installer":  {
-                      "url":  "https://w1sdoM777.github.io/a-stock-desk/assets/AStockDesk-Setup-v1.4.0.exe",
-                      "size":  23560825,
-                      "sha256":  "0021781AD0EABA7A4C1B040E3CB5624342176642D38C11799A9CA1C25EADC8F0",
+                      "url":  "https://w1sdoM777.github.io/a-stock-desk/assets/AStockDesk-Setup-v1.5.0.exe",
+                      "size":  23564027,
+                      "sha256":  "B02FBFD751A8D4251436E98A358810A214362AA39DED83DF763A41EE6B17CF72",
                       "fallbackUrls":  [
-                                           "https://cdn.jsdelivr.net/gh/w1sdoM777/a-stock-desk@main/docs/assets/AStockDesk-Setup-v1.4.0.exe",
-                                           "https://raw.githubusercontent.com/w1sdoM777/a-stock-desk/main/docs/assets/AStockDesk-Setup-v1.4.0.exe"
+                                           "https://cdn.jsdelivr.net/gh/w1sdoM777/a-stock-desk@main/docs/assets/AStockDesk-Setup-v1.5.0.exe",
+                                           "https://raw.githubusercontent.com/w1sdoM777/a-stock-desk/main/docs/assets/AStockDesk-Setup-v1.5.0.exe"
                                        ]
                   },
     "github":  {
                    "repo":  "w1sdoM777/a-stock-desk",
                    "ref":  "main",
-                   "path":  "docs/assets/AStockDesk-Setup-v1.4.0.exe"
+                   "path":  "docs/assets/AStockDesk-Setup-v1.5.0.exe"
                }
 }
