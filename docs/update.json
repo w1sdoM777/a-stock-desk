@@ -1,22 +1,22 @@
 {
     "app":  "A股作战台",
-    "version":  "1.6.0",
+    "version":  "1.7.0",
     "minVersion":  "1.0.0",
-    "publishedAt":  "2026-11-04T02:56:19+08:00",
+    "publishedAt":  "2026-11-04T03:22:57+08:00",
     "mandatory":  false,
-    "notes":  "v1.6.0：新增全市场个股搜索（沪深京约5900只，支持代码/名称/拼音）、我的自选、任意个股持仓与盈亏、个股详情页（行情+120日K线）、个股 AI 分析（依据新闻看板加权新闻+个股专属新闻，输出走势与把握度，手动触发、30分钟缓存）。",
+    "notes":  "v1.7.0：个股详情日K线支持自由缩放（滚轮/拖动/双击/触屏捏合/20-60-120-250日按钮）；持仓个股新增目标卖点区间（技术参考 + AI 分析给出的 AI 卖点/触发条件/持仓建议）。",
     "installer":  {
-                      "url":  "https://w1sdoM777.github.io/a-stock-desk/assets/AStockDesk-Setup-v1.6.0.exe",
-                      "size":  23847055,
-                      "sha256":  "F8BA3E5F52347664B8E3A18D29E9EC715745A6F149E8133F580BCBDD73D71BA8",
+                      "url":  "https://w1sdoM777.github.io/a-stock-desk/assets/AStockDesk-Setup-v1.7.0.exe",
+                      "size":  23854840,
+                      "sha256":  "E2E00CCBF0F485F26BD52295B1E537DA2A94EBB62F91138861DF7EF6829FD006",
                       "fallbackUrls":  [
-                                           "https://cdn.jsdelivr.net/gh/w1sdoM777/a-stock-desk@main/docs/assets/AStockDesk-Setup-v1.6.0.exe",
-                                           "https://raw.githubusercontent.com/w1sdoM777/a-stock-desk/main/docs/assets/AStockDesk-Setup-v1.6.0.exe"
+                                           "https://cdn.jsdelivr.net/gh/w1sdoM777/a-stock-desk@main/docs/assets/AStockDesk-Setup-v1.7.0.exe",
+                                           "https://raw.githubusercontent.com/w1sdoM777/a-stock-desk/main/docs/assets/AStockDesk-Setup-v1.7.0.exe"
                                        ]
                   },
     "github":  {
                    "repo":  "w1sdoM777/a-stock-desk",
                    "ref":  "main",
-                   "path":  "docs/assets/AStockDesk-Setup-v1.6.0.exe"
+                   "path":  "docs/assets/AStockDesk-Setup-v1.7.0.exe"
                }
 }
